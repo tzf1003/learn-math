@@ -1,37 +1,16 @@
-# 学习高数
+# 欢迎来学习高数
 
-#### 介绍
-从极限开始学高数
+## 项目介绍:
 
-#### 软件架构
-软件架构说明
+从极限开始学高数，其他介绍还没想好。。。
 
+## 正在实现的版块：
 
-#### 安装教程
+- [高数学习](../blob/master/高数学习.md)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 未来将实现的版块：
 
-#### 使用说明
+- 还没计划，欢迎提出建议。
+- ...
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+如有错误或建议，请提交issue并指出，随缘更新，欢迎点击右上角star
